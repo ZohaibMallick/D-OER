@@ -17,17 +17,6 @@ function Footer() {
         </p>
       </div>
       <div className="user">
-        <h3>Developer 2</h3>
-        <p>
-          <strong>Name:</strong> Pooja Sharma<br />
-          <strong>USN:</strong> 21BCAR0054<br />
-          <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/pooja-sharma-b0a9b4233/">LinkedIn</a><br />
-          <strong>Email:</strong> poojasharma200206@gmail.com<br />
-          <strong>Phone Number:</strong> +91-9742395368<br />
-          <strong>GitHub:</strong> <a href="https://github.com/">GitHub</a>
-        </p>
-      </div>
-      <div className="user">
         <h3>Guid/Mentor</h3>
         <p>
           <strong>Name:</strong> Mrs. Adlin Jebakumari S<br />
