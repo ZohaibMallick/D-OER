@@ -21,13 +21,13 @@ This project facilitates decentralized open educational resources upload and sha
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/decentralized-image-upload.git
+   git clone https://github.com/your-username/decentralized-image-upload.git](https://github.com/ZohaibMallick/D-OER.git
    ```
 2. Install dependencies for the hardhat:
 
    ```bash
    # Navigate to the root directory
-   cd Dgdrive3.0
+   cd D-OER
    # Install hardhat dependencies
    npm install
    ```
